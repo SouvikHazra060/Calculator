@@ -1,0 +1,82 @@
+body{
+    background-image: linear-gradient(to right,rgb(9, 9, 93),rgb(23, 144, 23));
+}
+#mainbody{
+    margin-left: 40%;
+    margin-top: 50px;
+    width: 397px;
+    height: 600px;
+    border: 6px solid;
+    border-color: yellowgreen;
+    background-color: black;
+    border-radius: 14px;
+}
+#screen{
+    box-shadow: inset -5px -5px 12px grey, inset 5px 5px 12px grey;
+    padding: 20px;
+    height: 54px;
+    width: 75%;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 19px;
+    text-align: right;
+    font-size: 50px;
+    border: solid 2px;
+    border-color: yellowgreen;
+    border-width: 5px;
+}
+
+
+
+.clear{
+    height: 50px;
+    width: 100px;
+    background: linear-gradient(to right,aqua,rgb(21, 214, 214));
+}
+.div{
+    background: linear-gradient(rgba(234, 234, 10, 0.867),rgb(223, 223, 17));
+}
+.eql{
+    background: linear-gradient(red,rgb(233, 9, 9));
+    color: white;
+}
+.eql:hover{
+    background: linear-gradient(rgb(191, 18, 18),rgb(156, 6, 6));
+}
+.div:hover{
+    background: linear-gradient(rgba(184, 184, 11, 0.867),rgb(188, 188, 10));
+}
+.clear:hover{
+    background: linear-gradient(to right,rgb(4, 207, 207),rgb(22, 197, 197));
+}
+.button{
+    width: 378px;
+    height: 380px;
+    border-radius: 10px;
+   
+}
+button{
+    padding: 5px;
+    height: 60px;
+    width: 60px;
+    border-radius: 48px;
+    margin-left: 30px;
+    margin-top: 29px;
+    font-size: 35px;
+    font-weight: bold;
+    background: linear-gradient(to bottom right ,rgb(90, 89, 89),rgb(235, 233, 233));
+    border: none;
+
+}
+button:hover{
+    background: linear-gradient(to bottom right ,rgb(61, 60, 60),rgb(150, 144, 144));
+    cursor: pointer;
+    
+}
+h1{
+   
+    color: white;
+    margin-top: 100px;
+    margin-left:44%;
+}
+
